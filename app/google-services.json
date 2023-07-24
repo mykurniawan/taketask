@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088247473874",
+    "project_id": "taketask-3bab9",
+    "storage_bucket": "taketask-3bab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088247473874:android:6b5db9996f310857bdef0b",
+        "android_client_info": {
+          "package_name": "com.example.taketask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088247473874-gvpqeaghln5niqsem13a0rf70qoabh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPR3G8o6-z9ccE3U_7a9WhRxx1z27Bfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088247473874-gvpqeaghln5niqsem13a0rf70qoabh1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
